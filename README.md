@@ -1,3 +1,5 @@
+https://relaxed-otter-9ccf40.netlify.app/ http://wiki.itbs.selfhost.co/doku.php?id=ibex:kursinhalte:start#andere_projekte
+
 # SolidStart
 
 ![Netlify + Solid](https://user-images.githubusercontent.com/43764894/223558736-6cf48156-2316-419d-8be9-e318ecf0e4be.png)
